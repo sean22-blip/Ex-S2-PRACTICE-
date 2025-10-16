@@ -1,0 +1,15 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.nav{
+    text-align: center;
+    list-style-type: none;
+}
+.a{
+    text-align: center;
+    color: blue;
+}
+li{
+    list-style: none;
+}
